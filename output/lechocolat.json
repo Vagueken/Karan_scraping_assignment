@@ -1,0 +1,97 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Le Chocolat Alain Ducasse",
+    "url": "https://www.lechocolat-alainducasse.com/uk/",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.lechocolat-alainducasse.com/uk/img/logo-16692997002.jpg"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://www.lechocolat-alainducasse.com/uk/",
+        "name": "Le Chocolat Alain Ducasse"
+    },
+    "name": "Luxury Dark Chocolate Bar The Blend 75% | Le Chocolat Alain Ducasse",
+    "url": "https://www.lechocolat-alainducasse.com/uk/signature-bar-dark-the-blend-75"
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.lechocolat-alainducasse.com/uk/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Mother&#039;s Day",
+            "item": "https://www.lechocolat-alainducasse.com/uk/mother-day"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "The Blend - 75% Dark Chocolate",
+            "item": "https://www.lechocolat-alainducasse.com/uk/signature-bar-dark-the-blend-75"
+        }
+    ]
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "sku": "8057",
+    "gtin13": "0",
+    "description": "The Manufacture invites you to discover its blend, a perfect balance between 4 crus cocoa beans - Peru, Ecuador, Madagascar, Sao Tome - for a unique signature chocolate bar! The Signature chocolate bars are the combination of a taste with a unique identity, discover recipes revealing the raw and pure character of our selected beans.",
+    "name": "The Blend",
+    "url": "https://www.lechocolat-alainducasse.com/uk/signature-bar-dark-the-blend-75",
+    "image": "https://www.lechocolat-alainducasse.com/uk/3310-large_default/signature-bar-dark-the-blend-75.jpg",
+    "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.lechocolat-alainducasse.com/uk/signature-bar-dark-the-blend-75",
+        "price": "10",
+        "priceCurrency": "GBP"
+    }
+}
+
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 0,
+            "name": "Peru",
+            "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-chocolate-bar-dark-peru-75"
+        },
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Rustic Peru",
+            "url": "https://www.lechocolat-alainducasse.com/uk/perou-rustic-tradition-chocolate-bar-dark"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Hazelnut pralin\u00e9 &amp; fleur de sel",
+            "url": "https://www.lechocolat-alainducasse.com/uk/filled-bar-dark-hazelnut-praline-fleur-sel"
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Ecuador National Arriba",
+            "url": "https://www.lechocolat-alainducasse.com/uk/single-origin-bar-equador-85"
+        }
+    ]
+}
+

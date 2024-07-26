@@ -1,0 +1,295 @@
+{
+    "data": {
+        "products": {
+            "items": [
+                {
+                    "category_hierarchy": [
+                        {
+                            "id": 2,
+                            "url_key": "default-category",
+                            "description": null,
+                            "name": "Products",
+                            "position": 1,
+                            "level": 1,
+                            "created_at": "2020-11-17 20:49:52",
+                            "updated_at": "2021-02-18 08:22:08",
+                            "product_count": 9,
+                            "__typename": "CategoryTree"
+                        },
+                        {
+                            "id": 8,
+                            "url_key": "food",
+                            "description": null,
+                            "name": "Food",
+                            "position": 2,
+                            "level": 2,
+                            "created_at": "2021-02-18 08:22:02",
+                            "updated_at": "2021-02-25 09:03:46",
+                            "product_count": 2,
+                            "__typename": "CategoryTree"
+                        },
+                        {
+                            "id": 59,
+                            "url_key": "dips-sauces-dressings",
+                            "description": null,
+                            "name": "Dips, Sauces & Dressings",
+                            "position": 4,
+                            "level": 3,
+                            "created_at": "2021-02-18 08:22:04",
+                            "updated_at": "2021-02-18 08:22:04",
+                            "product_count": 0,
+                            "__typename": "CategoryTree"
+                        },
+                        {
+                            "id": 74,
+                            "url_key": "dressing-seasoning",
+                            "description": null,
+                            "name": "Dressing & Seasoning",
+                            "position": 5,
+                            "level": 4,
+                            "created_at": "2021-02-18 08:22:04",
+                            "updated_at": "2021-02-18 08:22:04",
+                            "product_count": 39,
+                            "__typename": "CategoryTree"
+                        }
+                    ],
+                    "item_story_marketing": "<p>As it turns out, summertime salads positively shine when dressed in a fusion of sweet, tangy, and tropical flavors... And lucky for you, Trader Joe\u2019s Organic Mango Vinaigrette Dressing deftly incorporates each of these attributes, setting the table for some fantastically fresh, summer fare.</p>\r\n<p>A fairly simple blend of organic mango pur\u00e9e, vegetable oil, distilled white vinegar, and cane sugar (plus organic orange juice concentrate, dried red bell peppers, and garlic powder for added vim and vigor), our Organic Mango Vinaigrette lends itself to all sorts of applications. You can, of course, add a splash to salads (spinach + feta + toasted almonds + Organic Mango Vinaigrette = yum), or you can use it as a marinade for grilled chicken. Or as a fancy inclusion for fish tacos. Or as the star of a cold noodle dish or pasta salad...</p>",
+                    "product_label": "LIMITED TIME",
+                    "fun_tags": [
+                        "Alfresco Dining",
+                        "Picnic",
+                        "Pour It On"
+                    ],
+                    "primary_image": "/content/dam/trjo/products/m20405/77513.png",
+                    "primary_image_meta": {
+                        "url": "/content/dam/trjo/products/m20405/77513.png",
+                        "metadata": "{\"src\":\"/content/dam/trjo/products/m20405/77513.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"srcSet\":[{\"src\":\"/content/dam/trjo/products/m20405/77513.png/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/77513.png/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/products/m20405/77513.png/jcr:content/renditions/cq5dam.web.640.640\",\"media\":\"(max-width: 847px)\",\"type\":\"image/png\"},{\"src\":\"/content/dam/trjo/products/m20405/77513.png/jcr:content/renditions/cq5dam.web.1280.1280\",\"media\":\"(min-width: 848px)\",\"type\":\"image/png\"}],\"alt\":\"Trader Joe's Organic Mango Vinaigrette Dressing\",\"srcOriginal\":\"/content/dam/trjo/products/m20405/77513.png\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "other_images": [],
+                    "other_images_meta": [],
+                    "context_image": "/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg",
+                    "context_image_meta": {
+                        "url": "/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg",
+                        "metadata": "{\"src\":\"/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg\",\"srcSet\":[{\"src\":\"/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg/jcr:content/renditions/webp-640.webp\",\"media\":\"(max-width: 847px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg/jcr:content/renditions/webp-1280.webp\",\"media\":\"(min-width: 848px)\",\"type\":\"image/webp\"},{\"src\":\"/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg\",\"media\":\"(min-width: 848px)\",\"type\":\"image/jpeg\"},{\"src\":\"/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg/jcr:content/renditions/cq5dam.web.640.640.jpeg\",\"media\":\"(max-width: 847px)\",\"type\":\"image/jpeg\"}],\"alt\":\"Trader Joe's Organic Mango Vinaigrette shown as a marinade for chicken tenders skewered with red pepper and mango chunks; garnished with lime wedges and parsley\",\"srcOriginal\":\"/content/dam/trjo/context-images/77513-mango-vinaigrette-pdp.jpg\"}",
+                        "__typename": "ImageWithMeta"
+                    },
+                    "published": 1,
+                    "sku": "077513",
+                    "url_key": "077513-dressing-mango-vinaigrette",
+                    "name": "DRESSING MANGO VINAIGRETTE",
+                    "item_description": null,
+                    "item_title": "Organic Mango Vinaigrette Dressing",
+                    "item_characteristics": [
+                        "Organic",
+                        "Kosher"
+                    ],
+                    "item_story_qil": "As it turns out, summertime salads positively shine when dressed in a fusion of sweet, tangy, and tropical \nflavors... And lucky for you, Trader Joe's Organic Mango Vinaigrette Dressing deftly incorporates each of \nthese attributes, setting the table for some fantastically fresh, summer fare.\n\nA fairly simple blend of organic mango pur\u00e9e, vegetable oil, distilled white vinegar, and cane sugar (plus organic \norange juice concentrate, dried red bell peppers, and garlic powder for added vim and vigor), our Organic \nMango Vinaigrette lends itself to all sorts of applications. You can, of course, add a splash to salads (spinach \n+ feta + toasted almonds + Organic Mango Vinaigrette = yum), or you can use it as a marinade for grilled \nchicken. Or as a fancy inclusion for fish tacos. Or as the star of a cold noodle dish or pasta salad... \n\nOrganic Mango Vinaigrette Dressing",
+                    "use_and_demo": null,
+                    "sales_size": 12,
+                    "sales_uom_code": "198",
+                    "sales_uom_description": "Fl Oz",
+                    "country_of_origin": "Manufactured in USA",
+                    "availability": "1",
+                    "new_product": "1",
+                    "promotion": null,
+                    "price_range": {
+                        "minimum_price": {
+                            "final_price": {
+                                "currency": "USD",
+                                "value": 3.99,
+                                "__typename": "Money"
+                            },
+                            "__typename": "ProductPrice"
+                        },
+                        "__typename": "PriceRange"
+                    },
+                    "retail_price": "3.99",
+                    "nutrition": [
+                        {
+                            "display_sequence": 0,
+                            "panel_id": 1,
+                            "panel_title": "",
+                            "serving_size": "2 Tbsp. (30mL)",
+                            "calories_per_serving": "90 ",
+                            "servings_per_container": "Serves about 12",
+                            "details": [
+                                {
+                                    "display_seq": 1,
+                                    "nutritional_item": "Total Fat",
+                                    "amount": "7 g",
+                                    "percent_dv": ".09",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 2,
+                                    "nutritional_item": "Saturated Fat",
+                                    "amount": "0 g",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 3,
+                                    "nutritional_item": "Trans Fat",
+                                    "amount": "0 g",
+                                    "percent_dv": "",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 4,
+                                    "nutritional_item": "Cholesterol",
+                                    "amount": "0 mg",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 5,
+                                    "nutritional_item": "Sodium",
+                                    "amount": "120 mg",
+                                    "percent_dv": ".05",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 6,
+                                    "nutritional_item": "Total Carbohydrate",
+                                    "amount": "7 g",
+                                    "percent_dv": ".03",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 7,
+                                    "nutritional_item": "Dietary Fiber",
+                                    "amount": "0 g",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 8,
+                                    "nutritional_item": "Total Sugars",
+                                    "amount": "6 g",
+                                    "percent_dv": "",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 9,
+                                    "nutritional_item": "Includes",
+                                    "amount": "6 g Added Sugars",
+                                    "percent_dv": ".12",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 10,
+                                    "nutritional_item": "Protein",
+                                    "amount": "0 g",
+                                    "percent_dv": "",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 11,
+                                    "nutritional_item": "Vitamin D",
+                                    "amount": "0.0 mcg",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 12,
+                                    "nutritional_item": "Calcium",
+                                    "amount": "0 mg",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 13,
+                                    "nutritional_item": "Iron",
+                                    "amount": "0.1 mg",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                },
+                                {
+                                    "display_seq": 14,
+                                    "nutritional_item": "Potassium",
+                                    "amount": "20 mg",
+                                    "percent_dv": "0",
+                                    "__typename": "NutritionDetails"
+                                }
+                            ],
+                            "__typename": "NutritionAttribute"
+                        }
+                    ],
+                    "ingredients": [
+                        {
+                            "display_sequence": 1,
+                            "ingredient": "WATER",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 2,
+                            "ingredient": "ORGANIC CANOLA OIL",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 3,
+                            "ingredient": "ORGANIC MANGO PUREE CONCENTRATE",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 4,
+                            "ingredient": "ORGANIC SUGAR",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 5,
+                            "ingredient": "ORGANIC DISTILLED WHITE VINEGAR",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 6,
+                            "ingredient": "SALT",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 7,
+                            "ingredient": "ORGANIC ORANGE JUICE CONCENTRATE",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 8,
+                            "ingredient": "ORGANIC DRIED RED BELL PEPPERS",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 9,
+                            "ingredient": "CITRIC ACID (ACIDIFIER)",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 10,
+                            "ingredient": "ORGANIC GARLIC POWDER",
+                            "__typename": "IngredientsAttribute"
+                        },
+                        {
+                            "display_sequence": 11,
+                            "ingredient": "XANTHAN GUM.",
+                            "__typename": "IngredientsAttribute"
+                        }
+                    ],
+                    "allergens": null,
+                    "created_at": "2024-04-17 11:48:07",
+                    "first_published_date": "2024-06-12 21:04:31",
+                    "last_published_date": "2024-06-12 21:04:31",
+                    "updated_at": "2024-07-25 11:39:31",
+                    "related_products": [],
+                    "__typename": "SimpleProduct"
+                }
+            ],
+            "total_count": 1,
+            "page_info": {
+                "current_page": 1,
+                "page_size": 20,
+                "total_pages": 1,
+                "__typename": "SearchResultPageInfo"
+            },
+            "__typename": "Products"
+        }
+    }
+}
